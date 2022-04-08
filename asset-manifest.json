@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimpleReactWebsite/static/css/main.d1111162.css",
+    "main.js": "/SimpleReactWebsite/static/js/main.f49c13af.js",
+    "static/media/hero.jpg": "/SimpleReactWebsite/static/media/hero.2aa84844f1bd988a1346.jpg",
+    "static/media/about.jpg": "/SimpleReactWebsite/static/media/about.024d2af3925fcf4e4ed0.jpg",
+    "index.html": "/SimpleReactWebsite/index.html",
+    "main.d1111162.css.map": "/SimpleReactWebsite/static/css/main.d1111162.css.map",
+    "main.f49c13af.js.map": "/SimpleReactWebsite/static/js/main.f49c13af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1111162.css",
+    "static/js/main.f49c13af.js"
+  ]
+}
